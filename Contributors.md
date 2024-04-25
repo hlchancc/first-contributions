@@ -300,7 +300,7 @@ Kayla Barton
 - [Adilbh](https://github.com/Adil-bh)
 - [Ritushree Dutta](https://github.com/rits1309)
 - [MahditS] (https://github.com/MahditS)
-- [CC] (https://github.com/hlchancc)
+- [CC](https://github.com/hlchancc)
 - [u3b] (https://github.com/u3b)
 - [JerrySagwa] (https://github.com/JerrySagwa)
 - [Kushal Bhandari] (https://github.com/kushalb-dev)
